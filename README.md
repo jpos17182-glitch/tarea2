@@ -17,7 +17,6 @@
     <ul>
       <li><a href="#sobre">Sobre</a></li>
       <li><a href="#servicios">Highlights</a></li>
-      <li><a href="../index.html">Volver a mi portada</a></li>
     </ul>
   </nav>
 
